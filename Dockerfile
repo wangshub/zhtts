@@ -1,6 +1,4 @@
-# Docker for zhrtvc
 FROM tensorflow/tensorflow:2.4.2
-# ENV PATH /usr/local/nvidia/bin:/usr/local/cuda/bin:${PATH}
 
 MAINTAINER wangshub <rocksong.hit@gmail.com>
 
